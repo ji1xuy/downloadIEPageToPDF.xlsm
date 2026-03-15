@@ -1,0 +1,2 @@
+# downloadIEPageToPDF.xlsm
+EdgeブラウザのIEモードのページをPDFファイルとしてダウンロードするExcelマクロ
